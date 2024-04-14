@@ -1,4 +1,4 @@
-# Tugas-Akhir-SBD
+# Tugas Akhir SBD
 Sistem Basis Data (SBD) - Manajemen Data Mahasiswa Kampus with SQL
 
 Anggota Kelompok :
